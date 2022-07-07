@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.container {
+  background-color: black;
+  padding: 12px;
+  border-radius: 12px;
+  text-align: center;
+}
+.back {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+  outline: none;
+}
+
+.light {
+  background-color: white;
+  padding: 12px;
+  border-radius: 12px;
+  text-align: center;
+  border: 2px solid black;
+  color: black;
+}
+
+.Dark {
+  background-color: black;
+  padding: 12px;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+
+.h1 {
+  color: black;
+}
